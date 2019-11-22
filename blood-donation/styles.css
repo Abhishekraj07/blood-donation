@@ -15,4 +15,45 @@
      height: 100%;
 
  }
- 
+ .newsfeatures
+ {
+     text-align:center;
+ }
+.contact
+{
+    margin-left: 9%;
+    color: red;
+}
+.contact1
+{
+    margin-left: 20%;
+    color: blue;
+}
+.contact3
+{
+    margin-left: 20%;
+    color:black;
+}
+.max
+{
+    height: 50%;
+    width: 100%;
+   
+}
+.contact4
+{
+    margin-left: 20%;
+    color:black;
+    font-size: x-large;
+
+}
+.contact5
+{
+    margin-left: 20%;
+    font-size: large;
+}
+.availablity
+{
+    color:black;
+}
+}
