@@ -56,4 +56,26 @@
 {
     color:black;
 }
+.availablity1
+{
+    color: rgb(133, 2, 35);
+}
+
+.margin1{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.dim
+{
+    width: 10%;
+    height: 5%;
+}
+.dim1
+{
+    margin-left: 10%;
+}
+.dim2
+{
+    width: 90%;
+    height: 90%;
 }
