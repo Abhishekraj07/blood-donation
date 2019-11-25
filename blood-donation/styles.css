@@ -79,3 +79,21 @@
     width: 90%;
     height: 90%;
 }
+.cardwidth
+{
+    width:100%;
+    height: 55%;
+}
+.cardwidth1
+{
+    width:100%;
+    height: 50%;
+}
+.casrolecolor
+{
+    color:  rgb(133, 2, 35);
+}
+.margin1{
+    margin-left: 8%;
+    margin-right: 8%;
+}
